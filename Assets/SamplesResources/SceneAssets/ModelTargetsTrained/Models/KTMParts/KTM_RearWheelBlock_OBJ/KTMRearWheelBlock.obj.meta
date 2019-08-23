@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 815c95ecb5a599b4fa40b31fbde21a80
+timeCreated: 1513171633
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol1
+    100002: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol2
+    100004: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol3
+    100006: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol4
+    100008: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_olFBXASC045lib
+    100010: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_ol1
+    100012: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_olFBXASC045lib
+    100014: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_219_olFBXASC045lib
+    100016: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_220_olFBXASC045lib
+    100018: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_228_olFBXASC045lib
+    100020: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol1
+    100022: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol2
+    100024: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol3
+    100026: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib
+    100028: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib_(1)
+    100030: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_232_olFBXASC045lib
+    100032: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_ol1
+    100034: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_olFBXASC045lib
+    100036: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_ol1
+    100038: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_olFBXASC045lib
+    100040: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_442_olFBXASC045lib
+    100042: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_ol1
+    100044: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_olFBXASC045lib
+    100046: //RootNode
+    400000: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol1
+    400002: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol2
+    400004: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol3
+    400006: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol4
+    400008: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_olFBXASC045lib
+    400010: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_ol1
+    400012: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_olFBXASC045lib
+    400014: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_219_olFBXASC045lib
+    400016: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_220_olFBXASC045lib
+    400018: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_228_olFBXASC045lib
+    400020: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol1
+    400022: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol2
+    400024: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol3
+    400026: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib
+    400028: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib_(1)
+    400030: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_232_olFBXASC045lib
+    400032: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_ol1
+    400034: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_olFBXASC045lib
+    400036: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_ol1
+    400038: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_olFBXASC045lib
+    400040: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_442_olFBXASC045lib
+    400042: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_ol1
+    400044: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_olFBXASC045lib
+    400046: //RootNode
+    2100000: mat_mat37
+    2100002: mat_mat13
+    2100004: mat_mat32
+    2100006: mat_mat39
+    2100008: mat_mat38
+    2100010: mat_mat40
+    2100012: mat_mat45
+    2100014: mat_mat33
+    2100016: mat_mat44
+    2100018: mat_lambert1
+    2100020: mat_mat47
+    2100022: mat_mat46
+    2100024: mat_mat48
+    2100026: mat_mat9
+    2100028: mat_mat64
+    2100030: mat_mat7
+    2300000: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol1
+    2300002: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol2
+    2300004: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol3
+    2300006: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol4
+    2300008: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_olFBXASC045lib
+    2300010: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_ol1
+    2300012: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_olFBXASC045lib
+    2300014: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_219_olFBXASC045lib
+    2300016: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_220_olFBXASC045lib
+    2300018: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_228_olFBXASC045lib
+    2300020: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol1
+    2300022: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol2
+    2300024: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol3
+    2300026: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib
+    2300028: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib_(1)
+    2300030: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_232_olFBXASC045lib
+    2300032: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_ol1
+    2300034: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_olFBXASC045lib
+    2300036: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_ol1
+    2300038: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_olFBXASC045lib
+    2300040: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_442_olFBXASC045lib
+    2300042: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_ol1
+    2300044: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_olFBXASC045lib
+    3300000: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol1
+    3300002: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol2
+    3300004: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol3
+    3300006: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol4
+    3300008: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_olFBXASC045lib
+    3300010: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_ol1
+    3300012: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_olFBXASC045lib
+    3300014: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_219_olFBXASC045lib
+    3300016: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_220_olFBXASC045lib
+    3300018: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_228_olFBXASC045lib
+    3300020: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol1
+    3300022: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol2
+    3300024: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol3
+    3300026: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib
+    3300028: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib_(1)
+    3300030: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_232_olFBXASC045lib
+    3300032: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_ol1
+    3300034: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_olFBXASC045lib
+    3300036: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_ol1
+    3300038: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_olFBXASC045lib
+    3300040: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_442_olFBXASC045lib
+    3300042: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_ol1
+    3300044: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_olFBXASC045lib
+    4300000: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol1
+    4300002: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol2
+    4300004: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol3
+    4300006: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_ol4
+    4300008: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_214_olFBXASC045lib
+    4300010: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_ol1
+    4300012: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_215_olFBXASC045lib
+    4300014: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_219_olFBXASC045lib
+    4300016: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_220_olFBXASC045lib
+    4300018: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_228_olFBXASC045lib
+    4300020: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol1
+    4300022: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol2
+    4300024: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_ol3
+    4300026: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib
+    4300028: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_231_olFBXASC045lib_(1)
+    4300030: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_232_olFBXASC045lib
+    4300032: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_ol1
+    4300034: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_433_olFBXASC045lib
+    4300036: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_ol1
+    4300038: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_435_olFBXASC045lib
+    4300040: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_442_olFBXASC045lib
+    4300042: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_ol1
+    4300044: _lunity_0_000FBXASC045ktmFBXASC045rc8_asm_453_olFBXASC045lib
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

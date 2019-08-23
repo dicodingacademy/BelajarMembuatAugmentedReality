@@ -1,0 +1,130 @@
+#define new material mat_mat33
+newmtl mat_mat33
+Ka 0.000 0.000 0.000
+Kd 0.000 0.000 0.000
+
+#define new material mat_mat45
+newmtl mat_mat45
+Ka 0.246 0.266 0.280
+Kd 0.703 0.759 0.800
+
+#define new material mat_mat44
+newmtl mat_mat44
+Ka 0.207 0.103 0.000
+Kd 0.593 0.295 0.000
+
+#define new material mat_mat39
+newmtl mat_mat39
+Ka 0.210 0.210 0.280
+Kd 0.600 0.600 0.800
+
+#define new material mat_mat37
+newmtl mat_mat37
+Ka 0.315 0.000 0.000
+Kd 0.900 0.000 0.000
+
+#define new material mat_mat13
+newmtl mat_mat13
+Ka 0.280 0.045 0.023
+Kd 0.800 0.128 0.065
+
+#define new material mat_mat32
+newmtl mat_mat32
+Ka 0.280 0.280 0.280
+Kd 0.800 0.800 0.800
+
+#define new material mat_mat39
+newmtl mat_mat39
+Ka 0.210 0.210 0.280
+Kd 0.600 0.600 0.800
+
+#define new material mat_mat40
+newmtl mat_mat40
+Ka 0.315 0.236 0.315
+Kd 0.900 0.675 0.900
+
+#define new material mat_mat38
+newmtl mat_mat38
+Ka 0.315 0.315 0.315
+Kd 0.900 0.900 0.900
+
+#define new material mat_mat48
+newmtl mat_mat48
+Ka 0.315 0.158 0.000
+Kd 0.900 0.450 0.000
+
+#define new material mat_mat7
+newmtl mat_mat7
+Ka 0.202 0.202 0.202
+Kd 0.578 0.578 0.578
+
+#define new material mat_mat9
+newmtl mat_mat9
+Ka 0.238 0.038 0.019
+Kd 0.680 0.109 0.056
+
+#define new material mat_mat64
+newmtl mat_mat64
+Ka 0.167 0.180 0.190
+Kd 0.477 0.515 0.543
+
+#define new material mat_mat9
+newmtl mat_mat9
+Ka 0.238 0.038 0.019
+Kd 0.680 0.109 0.056
+
+#define new material mat_lambert1
+newmtl mat_lambert1
+Ka 0.140 0.140 0.140
+Kd 0.400 0.400 0.400
+
+#define new material mat_mat9
+newmtl mat_mat9
+Ka 0.238 0.038 0.019
+Kd 0.680 0.109 0.056
+
+#define new material mat_mat7
+newmtl mat_mat7
+Ka 0.202 0.202 0.202
+Kd 0.578 0.578 0.578
+
+#define new material mat_mat46
+newmtl mat_mat46
+Ka 0.000 0.147 0.210
+Kd 0.000 0.420 0.600
+
+#define new material mat_lambert1
+newmtl mat_lambert1
+Ka 0.140 0.140 0.140
+Kd 0.400 0.400 0.400
+
+#define new material mat_mat47
+newmtl mat_mat47
+Ka 0.000 0.315 0.315
+Kd 0.000 0.900 0.900
+
+#define new material mat_mat46
+newmtl mat_mat46
+Ka 0.000 0.147 0.210
+Kd 0.000 0.420 0.600
+
+#define new material mat_mat46
+newmtl mat_mat46
+Ka 0.000 0.147 0.210
+Kd 0.000 0.420 0.600
+
+#define new material mat_lambert1
+newmtl mat_lambert1
+Ka 0.140 0.140 0.140
+Kd 0.400 0.400 0.400
+
+#define new material mat_mat47
+newmtl mat_mat47
+Ka 0.000 0.315 0.315
+Kd 0.000 0.900 0.900
+
+#define new material mat_mat46
+newmtl mat_mat46
+Ka 0.000 0.147 0.210
+Kd 0.000 0.420 0.600
+

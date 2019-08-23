@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="VuforiaMars_ModelTarget360"/>
+
+</Tracking>
+
+<Assembly name="VuforiaMars_ModelTarget360s_assembly" assemblyId="4f91485558354ab5be52d5dbc1fcfdb4">
+<Part name="VuforiaMars_ModelTarget360" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-2.57e-17 0.0353553 0.318198" rotation="AD: -1.4153064610326057e-16 -1.082392200292394 2.613125929752753 180" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="" />
+</QCARConfig>

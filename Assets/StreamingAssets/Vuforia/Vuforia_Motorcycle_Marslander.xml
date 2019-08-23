@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Vuforia_MarsLander"/>
+<ModelTarget name="Vuforia_Motorcycle"/>
+
+</Tracking>
+
+<Assembly name="Vuforia_MarsLanders_assembly" assemblyId="d47e9b97bf9b4ecd8afe939754eec55f">
+<Part name="Vuforia_MarsLander" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="Rear" translation="-0.00177257 0.0421105 0.398642" rotation="AD: 0.9999999999958235 0.0008974393462479102 -0.003335080355951093 210.122">
+
+</EntryPoint>
+<EntryPoint name="Front" translation="0.00185205 0.0558209 0.368342" rotation="AD: -0.0014528501790268343 -1.013269946109451 6.199011200595934 179.996">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Vuforia_Motorcycles_assembly" assemblyId="a8fcf67dd72e45cca6969cb48951aa1b">
+<Part name="Vuforia_Motorcycle" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="Left" translation="0.0110066 0.0119589 0.308188" rotation="AD: 0.9462439506356998 0.9588194605371584 -0.5160922999449562 141.108">
+
+</EntryPoint>
+<EntryPoint name="Right" translation="-0.0110073 0.0130032 0.306969" rotation="AD: 0.933937644820812 -0.9282921551871186 0.6052958481101901 134.416">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="Vuforia_Motorcycle_Marslander" />
+</QCARConfig>

@@ -1,0 +1,15 @@
+#define new material mat_mat48
+newmtl mat_mat48
+Ka 0.315 0.158 0.000
+Kd 0.900 0.450 0.000
+
+#define new material mat_lambert1
+newmtl mat_lambert1
+Ka 0.140 0.140 0.140
+Kd 0.400 0.400 0.400
+
+#define new material mat_lambert1
+newmtl mat_lambert1
+Ka 0.140 0.140 0.140
+Kd 0.400 0.400 0.400
+
