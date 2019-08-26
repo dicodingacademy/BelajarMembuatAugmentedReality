@@ -5,7 +5,7 @@ Peserta akan mempelajari tentang:
 - Apa itu Augmented Reality.
 - Macam-macam SDK Augmented Reality.
 - Implementasi Plane Tracker, Augmented Faces dan Images pada ARCore.
-- Implementasi Marker-based dan Markerless Tracing pada Vuforia.
+- Implementasi Marker-based dan Markerless Tracking pada Vuforia.
 
 Silakan daftar di [dicoding.id/a/135][bmar].
 
