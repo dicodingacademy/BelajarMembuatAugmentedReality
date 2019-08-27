@@ -1,5 +1,5 @@
 # Belajar Membuat Augmented Reality
-Repositori ini berisi project dari Academy [Belajar Membuat Augmented Reality][bmar]. Untuk beralih ke project yang lain, Anda bisa memilih project pada menu `branch`.
+Repository ini berisi project dari Academy [Belajar Membuat Augmented Reality][bmar]. Untuk beralih ke project yang lain, Anda bisa memilih project pada menu `branch`.
 
 Peserta akan mempelajari tentang:
 - Apa itu Augmented Reality.
